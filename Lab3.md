@@ -36,7 +36,7 @@
 **Обрана модель**:
 
 <pre>
-C:\Program Files\NetLogo 6.3.0\models\Sample Models\Biology\Ants.nlogo
+D:NetLog\models\Sample Models\Biology\Ants.nlogo
 </pre>
 
 **Параметри моделі** (вкладка Model):
